@@ -91,4 +91,3 @@ while True:
             sleep(500)
 
         display.show(Image.HAPPY)
-
